@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Entrego mi alma
+
+This log tracks the cryptographic history and versioning for the song **Entrego mi alma** (entrego-mi-alma).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-16T00:02:44.631706 | `v1` | `617f3c87ff555fe7cad8356f402b8a3e7772542fc192e32ba128d4235d1ebf52` | `44206bd1a285c858461bb76f558b159c4f25a4fad00cdaaedd1214017f47ed5a` | `2026-06-16_entrego-mi-alma-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
