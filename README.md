@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/entrego-mi-alma/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Entrego mi alma](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/entrego-mi-alma/) |
+| **Get License** | [Music Rights & Licensing for Entrego mi alma](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/entrego-mi-alma/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Toda la noche esperando verte por la ciudad
+> Sabes que mi alma entera te la quiero entregar
+> Con ese piquete chulo que me roba la razón
+> Bailando en la oscuridad se enciende la pasión
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -108,7 +111,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
 | **SHA-256 Hash** | `N/A` |
-| **Timestamp** | June 15, 2026 |
+| **Timestamp** | June 16, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
 
